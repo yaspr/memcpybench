@@ -1,0 +1,3 @@
+# 1 - memcpy benchmark
+  - Runs multiple implementations of memcpy and measures the maximum memory bandwidth
+  
